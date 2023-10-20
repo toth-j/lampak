@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+#keret {
+    display: flex;
+    justify-content: center;
+}
+.lampa {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 10px;
+}
+button {
+    padding: 10px;
+}
